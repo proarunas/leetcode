@@ -1,0 +1,10 @@
+1, easy, done
+2, medium, pending
+3, medium, pending
+4, hard, pending
+5, medium, pending
+6, medium, pending
+7, medium, pending
+8, medium, pending
+9, easy, pending
+10, hard, pending
